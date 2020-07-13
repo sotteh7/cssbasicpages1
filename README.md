@@ -1,5 +1,5 @@
-# HTML_Basics
-This is a repository of basic HTML concepts.
+# cssbasics
+This is a repository of basic CSS concepts.
 
 Basic HTML Layout:
 
